@@ -118,5 +118,18 @@ bdt-covid-dashboard/
 | Dataset Platform | Kaggle |
 
 ---
+## Tableau Visualization
+
+A supplementary interactive dashboard was created using Tableau Public to visualize the top countries by confirmed COVID-19 cases.
+
+| Detail | Info |
+|---|---|
+| Tool | Tableau Public |
+| Dataset Used | country_wise_latest.csv |
+| Chart Type | Sorted Bar Chart |
+| Dashboard Link | [Click here to view on Tableau Public](https://public.tableau.com/views/COVID-19Dashboard_17765185575130/Sheet1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
+
+### Tableau Dashboard Screenshot
+![Tableau Dashboard](tableau_dashboard.png)
 
 *Submitted as part of the Activity Based Learning model for Big Data Technologies coursework.*
